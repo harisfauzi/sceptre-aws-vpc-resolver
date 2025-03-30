@@ -4,7 +4,13 @@ The purpose of this resolver is to retrieve VPC ID from the AWS VPC.
 
 ## Install
 
-```bash
+```shell
+pip install git+https://github.com/harisfauzi/sceptre-aws-vpc-resolver.git
+```
+
+or
+
+```shell
 pip install sceptre-vpc-resolver
 ```
 
